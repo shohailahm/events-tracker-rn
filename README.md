@@ -5,7 +5,7 @@ Events tracker
 What is this repository for?
 
    APP  built on react-native initated with react-native-init 
-
+   with navigation on swipe
    Git clone :- https://github.com/shohailahm/events-tracker-rn
 
 How do I get set up?
